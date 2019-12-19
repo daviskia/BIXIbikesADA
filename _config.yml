@@ -24,7 +24,7 @@ navbar-links:
   BIXI Bikeshare:
     - System: "bixi"
     - BIXI website: "http://https://montreal.bixi.com/en/"
-  Bike friendliness/Safety: "paths"
+  Safety: "paths"
   Public transport: "buses"
   Weather: "weather"
 
@@ -70,11 +70,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+#  rss: true
+#  email: "someone@example.com"
+#  facebook: deanattali
+  github: daviskia
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "daviskia.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

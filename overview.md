@@ -6,7 +6,7 @@ subtitle: Why Bikeshare?
 
 Bikeshare systems are an alternative form of public transport to traditional buses and subways which allow users to pick up and drop of shared bikes at specific stations around the city. The use of the bikeshare system has been increasing, making it an important feature to consider in the city's complete transport system. In the last year however it has begun to decrease; an improvement of the system may be able to bring usage back up. Biking is both more environmentally friendly and more healthy than automobiles, and incorporating this system is a benefit to the city's inhabitants. we thus want to analyse the system to see how people currenlty use the system and then find improvements to maximize and encourage the use of this beneficial form of transport. We especially want to analyse it with respect to it's interactions and incorportation with other tranport infrastructures. 
 
-### What is this BIXI bike system?
+### What is the BIXI bike system?
 BIXI bike is a bikeshare system in Montreal, much like other bikeshare systems around the world. We first wanted to understand however how the system was being used by users and how it was set up. Where do people like using the bikes? What are they using them for? What factors could effect our results?  
 
 [Learn more](bixi.md)
