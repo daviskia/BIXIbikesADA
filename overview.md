@@ -16,7 +16,7 @@ One of the main concerns of people riding on bikes in cities is the safety. You 
 
 [Learn more](paths.md)
 
-### Bus or Bike?
+### To Bike or to Bus?
 We all want to try and find the fastest way to get from A to B. We also don't want to crowd into a cramped bus with 60 other people. What makes us decide whether to take the bus or metro versus go on a bike? Does the bikeshare help fill the gaps where the buses don't go often? Or do we use it in parallel with the bus lines to have a more pleasant, or even still faster, commuting experience? 
 
 [Learn more](buses.md)
