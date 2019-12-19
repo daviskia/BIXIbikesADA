@@ -23,7 +23,7 @@ navbar-links:
   Project Overview: "overview"
   BIXI Bikeshare:
     - System: "bixi"
-    - BIXI website: "http://https://montreal.bixi.com/en/"
+    - BIXI website: "http://https://montreal.bixi.com"
   Safety: "paths"
   Public transport: "buses"
   Weather: "weather"
