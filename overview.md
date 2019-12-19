@@ -4,13 +4,17 @@ title: Project Overview
 subtitle: Why Bikeshare?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Bikeshare systems are an alternative form of public transport to traditional buses and subways which allow users to pick up and drop of shared bikes at specific stations around the city. The use of the bikeshare system has been increasing, making it an important feature to consider in the city's complete transport system. In the last year however it has begun to decrease; an improvement of the system may be able to bring usage back up. Biking is both more environmentally friendly and more healthy than automobiles, and incorporating this system is a benefit to the city's inhabitants. we thus want to analyse the system to see how people currenlty use the system and then find improvements to maximize and encourage the use of this beneficial form of transport. We especially want to analyse it with respect to it's interactions and incorportation with other tranport infrastructures. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### What is this BIXI bike system?
+BIXI bike is a bikeshare system in Montreal, much like other bikeshare systems around the world. We first wanted to understand however how the system was being used by users and how it was set up. Where do people like using the bikes? What are they using them for? What factors could effect our results?  
 
-What else do you need?
+[BIXI bikes](http://bixi.md/)
 
-### my history
+### How safe is it?
+One of the main concerns of people riding on bikes in cities is the safety. You are sharing the road with many drivers who may or may not be looking out for bikes. Many people may simply be too afraid to bike along a busy road downtown. Their savior: bike paths. We analysed the density of bike paths across the city to see if people were more likley to go between stations which had a safe route. If this is a major factor, creating more bike lanes between the most popular stations could be a benefit to bikers.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Do I want to arrive to work soaking wet?
+Here we look at the weather and how that effects the use of bikes. What weather factors increase or decrease bike use? We can't change the weather, but can we modify the system to make biking more friendly year round?
+
+### 
