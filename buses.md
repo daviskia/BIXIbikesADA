@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Integration into Public Transport
+subtitle: Do the bikes act as a public transport replacement or used to fill the gaps?
 ---
 
 My name is Inigo Montoya. I have the following qualities:

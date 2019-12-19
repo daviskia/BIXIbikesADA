@@ -20,11 +20,12 @@ description: An analysis of the BIXI bikeshare system in Montreal for EPFL ADA c
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Project Overview: "overview"
+  BIXI Bikeshare: "bixi"
+    - BIXI website: "http://https://montreal.bixi.com/en/"
+  Bike friendliness/Safety: "paths"
+  Public transport: "buses"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
