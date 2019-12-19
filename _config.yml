@@ -40,15 +40,15 @@ avatar: "/img/bixi.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#32CD32"
+navbar-col: "#9ADF91"
 navbar-text-col: "#3e4444"
-navbar-children-col: "405d27"
+navbar-children-col: "#98FB98"
 page-col: "#FFFFFF"
-link-col: "#006400"
-hover-col: "#006400"
+link-col: "#008B8B"
+hover-col: "#008B8B"
 footer-col: "#9ADF91"
 footer-text-col: "#3e4444"
-footer-link-col: "#006400"
+footer-link-col: "#008B8B"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
