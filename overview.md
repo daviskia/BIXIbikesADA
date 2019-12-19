@@ -9,7 +9,7 @@ Bikeshare systems are an alternative form of public transport to traditional bus
 ### What is this BIXI bike system?
 BIXI bike is a bikeshare system in Montreal, much like other bikeshare systems around the world. We first wanted to understand however how the system was being used by users and how it was set up. Where do people like using the bikes? What are they using them for? What factors could effect our results?  
 
-[BIXI bikes](http://bixi.md/)
+[BIXI bikes](bixi.md)
 
 ### How safe is it?
 One of the main concerns of people riding on bikes in cities is the safety. You are sharing the road with many drivers who may or may not be looking out for bikes. Many people may simply be too afraid to bike along a busy road downtown. Their savior: bike paths. We analysed the density of bike paths across the city to see if people were more likley to go between stations which had a safe route. If this is a major factor, creating more bike lanes between the most popular stations could be a benefit to bikers.
