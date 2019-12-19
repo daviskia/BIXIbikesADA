@@ -21,7 +21,8 @@ description: An analysis of the BIXI bikeshare system in Montreal for EPFL ADA c
 # List of links in the navigation bar
 navbar-links:
   Project Overview: "overview"
-  BIXI Bikeshare: "bixi"
+  BIXI Bikeshare:
+    - System: "bixi"
     - BIXI website: "http://https://montreal.bixi.com/en/"
   Bike friendliness/Safety: "paths"
   Public transport: "buses"
