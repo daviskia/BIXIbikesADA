@@ -26,6 +26,7 @@ navbar-links:
     - BIXI website: "http://https://montreal.bixi.com/en/"
   Bike friendliness/Safety: "paths"
   Public transport: "buses"
+  Weather: "weather"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
