@@ -38,7 +38,5 @@ Clearly people use bixi-bikes in conjunction with the metro. This behaviour may 
 
 # Conclusion 
 
-It seems that only the metro matters for bike use. Buses do not seem to be used in conjunction with bikes. The way to increase bike use through public transport is through metro lines. Scales are to be reminded however. Bixi bikes do less than 100000 trips per day while metros more than 1 million. Bikes should be remebered while planning new lines but should not be a priority.
-
-We can see that the 
+It seems that only the metro matters for bike use. Buses do not seem to be used in conjunction with bikes. The way to increase bike use through public transport is through metro lines. Scales are to be reminded however. Bixi bikes do less than 100000 trips per day while metros more than 1 million. Bikes should be remebered while planning new lines but should not be a priority. 
 
