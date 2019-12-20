@@ -32,7 +32,7 @@ We therefore divide an area of interest into different squares to calculate the 
 ## Are the most popular BIXI stations in a bike-friendly zone?
 
 
-
+<iframe src="https://daviskia.github.io/maps/safety/pop_stat_paths.html" width="100%" height="400px"></iframe>
 
 # Attention : need chloropleth + most popular stations
 
