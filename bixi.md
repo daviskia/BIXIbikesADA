@@ -56,3 +56,5 @@ Instead of looking at a single station we can look at all of the paths to and fr
 - Blue dotes are end points which are not one of the most popular stations
 
 <iframe src="https://daviskia.github.io/maps/bixi/bike_routes.html" width="100%" height="400px"></iframe>
+
+These maps and graphs all provide us with a good overview of the BIXI system which can be used in our analysis of how it itegrates into the Montreal's overall transport infrastructure. Check out the [Public Transport](buses.md) and [Safety](paths.md) pages for more info!
