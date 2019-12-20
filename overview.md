@@ -35,7 +35,7 @@ For our analysis we worked with 4 different datasets:
 [link](https://climat.meteo.gc.ca/historical_data/search_historic_data_f.html))
 3. Public transport schedule (type = txt, files = data that contains bus passages, bus stop localisation [link](http://donnees.ville.montreal.qc.ca/dataset/stm-horaires-planifies-et-trajets-des-bus-et-du-metro) )
 4. Bike paths (type = .geojson, files = data that contains bikepath location and types, 
-link : http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables)
+[link](http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables) )
 
 ## A brief summary 
 Analysing geographical data is difficult. We did not find a link between the presence of bike paths and bike use although it may be due to the method of analysis. We did however manage to reveal a link between metros and bikes. We also managed to confirm an evidence people don't like to bike in cold weather. All these informations may be used by organizations to improve and adapt infrastructure.
