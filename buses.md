@@ -15,7 +15,7 @@ The public transport network consists of bus and metro lines operated by STM. Th
 When looking at the map of bus lines we can see that the network is well spread out. 
 
 <iframe src="https://daviskia.github.io/maps/public_transport/Matching_Bixi_Stations_HeatMap_with_Bus_Lines.html" width="100%" height="400px"></iframe>
-
+*Image subtitle*
 
 However looking at only the bus line gives an incomplete picture. A bus line with 10 buses per hour is not the same as one with one bus every hour. Thus using the bus timetables we find the bus passage per (**depends on map chosen, shown one is not final** ) 
 <iframe src="https://daviskia.github.io/maps/public_transport/Matching_Bixi_Stations_HeatMap-with_Metro_Lines.html" width="100%" height="400px"></iframe>
