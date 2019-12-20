@@ -30,10 +30,10 @@ Here we look at the weather and how that effects the use of bikes. What weather 
 ## The Data
 For our analysis we worked with 4 different datasets:
 1. BIXI Bikeshare trips (type = .csv, files = data for each year and month, station locations and codes for each year, 
-link : https://montreal.bixi.com/en/open-data)
+[link](https://montreal.bixi.com/en/open-data))
 2. Montreal weather data (type = .csv, files = data for each day, temperature, precipitation, snow and wind max speed, 
-link : https://climat.meteo.gc.ca/historical_data/search_historic_data_f.html)
-3. Public transport schedule (type = , files =  )
+[link](https://climat.meteo.gc.ca/historical_data/search_historic_data_f.html))
+3. Public transport schedule (type = txt, files = data that contains bus passages, bus stop localisation [link](http://donnees.ville.montreal.qc.ca/dataset/stm-horaires-planifies-et-trajets-des-bus-et-du-metro) )
 4. Bike paths (type = .geojson, files = data that contains bikepath location and types, 
 link : http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables)
 
