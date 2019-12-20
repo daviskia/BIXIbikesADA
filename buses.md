@@ -18,12 +18,7 @@ The public transport network consists of bus and metro lines operated by STM. Th
 When looking at the map of bus lines we can see that the network is well spread out. 
 
 <iframe src="https://daviskia.github.io/maps/Bus_Lines.html" width="100%" height="400px"></iframe>
-
-
-However looking at only the bus lines gives an incomplete picture. A bus line with 10 buses per hour is not the same as one with one bus every hour. Thus using the bus timetables we find the bus passage per (**depends on map chosen, shown one is not final** ). Looking at the map we can hypothesize that the bikes and bus lines serve different purposes. The bike lines are focused in the city center used for short trips. While the buses are spread :
-
-
-The buses are clearly well spread out. This is opposed to the bixi bike stations which are concentrated around the city center. 
+ 
 
 ### Metro Network
 
