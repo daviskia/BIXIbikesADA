@@ -43,7 +43,7 @@ Now that we have found a way to calculate and display bike-friendliness, all we 
 
 To answer our question, we then selected a sample of more than a thousand bike paths of different popularity to calculate their surrounding bike-friendliness. By displaying the popularity of each density of different bike paths, we expected to see an increase in average popularity as the density increases. Here is what we get, grouping the average densities around integer values:
 
-![Bike density versus route popularity](img/bp_corr_bar.png)
+![Bike density versus route popularity](img/bp_corr_bar.png){: .center-block :}
 
 Our analyses therefore do not allow us to show a correlation between the popularity and the bike-friendliness of a trip. This is understandable because the motivation to take a bike does not mainly depend on the existence of a cycle path between two stations but more on the immediate proximity of a station to the place where one wishes to go. 
 
