@@ -31,10 +31,10 @@ We therefore divide an area of interest into different squares to calculate the 
 
 ## Are the most popular BIXI stations in a bike-friendly zone?
 
+Many of the most popular stations, represented below by blue circles whose diameter increases with popularity, are located in an area with a high density of bicycle paths. However, there are still a few stations in the top 50, arranged to the right, in a straight line, on portions with low densities of bike lanes.
 
 <iframe src="https://daviskia.github.io/maps/safety/pop_stat_paths.html" width="100%" height="400px"></iframe>
 
-# Attention : need chloropleth + most popular stations
 
 
 ## Does Bike-friendliness increase popularity of a trip ?
