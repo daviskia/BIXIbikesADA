@@ -41,6 +41,10 @@ Moreover, there is no wind value <31 km/h, which must be due to the sensibility 
 
 **Mathematical analysis**
 
+We can plot the average bike use against temperature. We find expected results low temperatures reduce bike use.
+![Temp](img/temp_use.png){: .center-block :}
+
+
 We did a Ridge Regression to see what parameters could be the more important. In a first step we decided to do it only on day of high wind (>31 km/h), after 2016, not using 2019 data, during the working month of the bikeshare system (april to november).
 
 Data were normalized in order to have comparable coefficient.
