@@ -30,9 +30,9 @@ The buses are clearly well spread out. This is opposed to the bixi bike stations
 The metro network is less spread out than the bus network. It is foucused around the city center. If we overlay a heatmap of the bike stations and metrolines we find that they are clearly linked. Why is that ?
 <iframe src="https://daviskia.github.io/maps/public_transport/Matching_Bixi_Stations_HeatMap-with_Metro_Lines.html" width="100%" height="400px"></iframe>
 
-The most obvious answer is that the bikes are situated in the most dense zones. This is true
+The most obvious answer is that the bikes are situated in the most dense zones. [This is true](http://censusmapper.ca/#11/45.5273/-73.6966)
 
-<iframe src="https://censusmapper.ca/#11/45.5273/-73.6966" width="100%" height="400px"></iframe>
+<iframe src="http://censusmapper.ca/#11/45.5273/-73.6966" width="100%" height="400px"></iframe>
  
 By asking some canadians we heard that the bus system was quite unreliable and that you had to wait for long times if using the bus. They told us that by using bikes you could avoid the buses and use the metro system directly. Does the data show this ? Let's look  at the most popular bike paths overlayed with the metro lines :
 
