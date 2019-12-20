@@ -82,3 +82,17 @@ So we did a second regression, dropping the wind set.
 Once again, temperature is a positive factor and rain and snow are negative ones, which makes sense.
 Temperature is the principal factor in Montreal that will make you decide whether or not you will use the public bike.
 
+**Prediction**
+
+Now that we have such a model, we could try to predict what would be the bike use during winter if the bikeshare system was not closed, to see whether or not the closing month choice is appropriate.
+
+We will use the coefficient of the second Ridge Regression, during years 2016, 2017 and 2018. To that end, we must use normalized data of the winter month.
+
+[insert a pic]
+
+We see that during closure (16th of October to the 14th of April), the predictive model we built shows value almost null. 
+Temperature, rain and snow during this month would discourage bike use...
+
+It is relevant that the system close during that time, and no change is adviced.
+
+
