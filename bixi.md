@@ -10,7 +10,7 @@ The first task was to combine the separate files for each year and month into a 
 
 The data was very clean already, with no NaNs, consistent formatting, and a reasonable looking distribution. We will focus on the data from 2019 for our analysis since public transport schedules and infrastructure, as well as the bike share infrastructure change each year, so in order to compare we need to look at a single year. For example the BIXI stations with the same code can change locations each year. The bus schedule also differs and bike lanes are added/demolished.
 
-![Bike use duration histogram](img/broken.png)
+![Bike use duration histogram](img/broken.png){: .center-block :}
 
 The above plot illustrates the distribution of return trips (start and end stations are the same). There is a disproportionately high number of trips which return to the same station at a very small duration. This is likely from broken bikes which are signed out but then returned very quickly to the same station. We thus decided to remove these data points, elminating any trips which returned to the same station and have a duration of less than 3 minutes. 
 
@@ -21,7 +21,7 @@ Lets take a look at the data to see if we can identify any interesting features:
 
 The data shows that people use the service for both short commuting trips and longer journeys. The majority of users however commute with the bike, taking direct routes between stations. As expected the bottom right corner of the plot has no data points since there is a limit to how fast bikers can travel between two stations.
 
-![Number of rides by hour and day (in a month)](img/daily.png)
+![Number of rides by hour and day](img/daily.png)
 
 We can see the system is mostly used for short distance trips indicating use for commuting. We see a linear relationship between distance and duration indicating most people take around the same time to bike from one station to the next and not many are completing touring rides (which would appear as a relatively long duration for a short distance). These do appear as well, however at much lower frequency. In addition the increased use around the hours that people go to and get off work supports this conclusion. 
 
