@@ -4,6 +4,11 @@ title: BIXI Bikeshare
 subtitle: What are the characteristics of the existing bikeshare system?
 bigimg: /img/bixi.jpg
 ---
+### BIXI Facts
+BIXI is available to use for both members and non-members. With a membership you can pay for access to unlimited trips of less than 30 minutes for the time period of the membershp (ranging from just 24 hours to a year). For any trips longer than 30 mintues additional fees apply for each extra minute. This explains why we see so many trips of short duration. The bikes are also available without the membership for single trips, which are of course less economical but good for occasional users. In addtion, they have a partnernship with OPUS (the public transport card for Montreal), to provide reduced fares. This encourages people to use it in conjunction with other available public transport.
+
+The system works with fixed stations. Unlike some bikeshare systems, the bikes must be picked up and returned to existing stations. These stations have a limited number of parking spots. The limited parking places as well as potential depletion of a station may effect our analysis, as some stations would potentially have higher use if there were more stations spots avaiable. The system is also not available during the winter, the bikes and stations are removed from November 15th to April 15th. 
+
 
 ### Cleaning the data
 The first task was to combine the separate files for each year and month into a single dataframe. The station data (coordinates) was also merged and the dates converted to datetime and separated by year, month, day and hour for ease of analysis later. Additionally the 'distance' (more accurately displacement) of each trip was calculated using the haversine function (this is the straight line between the start and end station and does not reflect the actual distance traveled by the bike). 
@@ -17,11 +22,11 @@ The above plot illustrates the distribution of return trips (start and end stati
 ### First look
 Lets take a look at the data to see if we can identify any interesting features:
 
-![Raw data - distance versus duration](img/distvsdur.png)
+![Raw data - distance versus duration](img/distvsdur.png){: .center-block :}
 
 The data shows that people use the service for both short commuting trips and longer journeys. The majority of users however commute with the bike, taking direct routes between stations. As expected the bottom right corner of the plot has no data points since there is a limit to how fast bikers can travel between two stations.
 
-![Number of rides by hour and day](img/daily.png)
+![Number of rides by hour and day](img/daily.png){: .center-block :}
 
 We can see the system is mostly used for short distance trips indicating use for commuting. We see a linear relationship between distance and duration indicating most people take around the same time to bike from one station to the next and not many are completing touring rides (which would appear as a relatively long duration for a short distance). These do appear as well, however at much lower frequency. In addition the increased use around the hours that people go to and get off work supports this conclusion. 
 
@@ -29,7 +34,7 @@ We can see the system is mostly used for short distance trips indicating use for
 We want to know where the bikes are used the most. This gives us an idea for where more stations may be helpful, or more bike paths and infrastructure for biking.
 
 The following boxplot shows the distribution of number of trips taken from a given station. There are only a few stations which are used much more frequently than others, the rest are all used fairly uniformly at a lower frequency:
-![Station use frequency distribution](img/use_dist.png)
+![Station use frequency distribution](img/use_dist.png){: .center-block :}
 
 This is interesting, but more intersting would be to look at how these stations are distributed on a map:
 <iframe src="https://daviskia.github.io/maps/bixi/station_use_hm.html" width="100%" height="400px"></iframe>
