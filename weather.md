@@ -50,8 +50,11 @@ Data were normalized in order to have comparable coefficient.
 We obtain the following equation :
 
 Normalize bike travel count = 	1.83934319e-04 x normalized temperature 
+
 				-7.22697522e-05 x normalized precipitation 
+				
 				-1.48001051e-04 x normalized snow on ground 
+				
 				-1.89050845e-05 x normalized wind max speed
 
 Considering the signs of the coefficients, temperature has a positive influence, and rain, snow, and wind a negative one, as expected thought. 
@@ -62,8 +65,10 @@ So we did a second regression, dropping the wind set.
 
 [insert a pic]
 
-Normalize bike travel count = 	1.72323698e-04 x normalized temperature 
-				-7.82654802e-05 x normalized precipitation 
+Normalize bike travel count = 	1.72323698e-04 x normalized temperature
+
+				-7.82654802e-05 x normalized precipitation
+				
 				-5.90781277e-05 x normalized snow on ground 
 
 
