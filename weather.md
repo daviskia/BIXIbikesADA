@@ -25,9 +25,9 @@ The weather dataset was relatively clean, thought containing a lot of missing va
 
 Here we can see the evolution of temperature, precipitation, snow and wind max speed from 2014 to 2019.
 
-![Precipitation](img/precip.png){: .center-block :}
-
 ![Temperature](img/temp.png){: .center-block :}
+
+![Precipitation](img/precip.png){: .center-block :}
 
 ![Snow](img/snow.png){: .center-block :}
 
