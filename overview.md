@@ -32,3 +32,10 @@ For our analysis we worked with 4 different datasets:
 2. Montreal weather data (type = .csv, files = ...... )
 3. Public transport schedule (type = , files = )
 4. Bike paths (type = .geojson, files = )
+
+## Putting it all together..
+After analysing the different components of the transport infrastructure separately we then needed to put it all together to create a coherent image.
+
+<iframe src="https://daviskia.github.io/maps/Matching_Bike_Path_Density_Chloropleth_Bus_Lines.html" width="100%" height="400px"></iframe>
+
+<iframe src="https://daviskia.github.io/maps/Matching_Bike_Path_Density_Chloropleth_Metro_Lines.html" width="100%" height="400px"></iframe>
