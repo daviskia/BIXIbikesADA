@@ -13,11 +13,11 @@ We tried to analyze the weather dataset and to conclude which parameters, among 
 
 A first look at the data shows us that the number of bike travel overall increase through year. This has nothing to do with weather, which should be approximately the same every year. So the increasing popularity of the bixi bikeshare system induce some bias in our analysis.
 
-[insert a pic]
+![Travel throughout year](img/weather.png)
 
 A way to suppress or reduce this bias, is to normalize every number of bike travel per day by the number of bike travel made the corresponding year.
 
-[insert a pic]
+![Normalized travel throughout the year](img/norm.png)
 
 **Weather dataset cleaning**
 
@@ -25,13 +25,13 @@ The weather dataset was relatively clean, thought containing a lot of missing va
 
 Here we can see the evolution of temperature, precipitation, snow and wind max speed from 2014 to 2019.
 
-[insert a pic]
+![Precipitation](img/precip.png)
 
-[insert a pic]
+![Temperature](img/temp.png)
 
-[insert a pic]
+![Snow](img/snow.png)
 
-[insert a pic]
+![Wind](img/wind.png)
 
 These graph shows us that weather do not change significantly from one year to another, which confort us in the previous choice of normalization. Also, we can see that there is no snow data before 2016 and that there is a big gap of missing values in the precipitation graph around the beginning of the year 2015.
 
@@ -45,7 +45,7 @@ We performed a Ridge Regression in order to see what parameters could be the mor
 
 Data were normalized in order to have comparable coefficient.
 
-[insert a pic]
+![First ridge regression](img/ridge1.png)
 
 We obtain the following equation :
 
@@ -67,7 +67,7 @@ The major influence is given by temperature, as it is the max absolute value amo
 
 So we did a second regression, dropping the wind set. 
 
-[insert a pic]
+![Second ridge regression](img/ridge2.png)
 
 
 	Normalize bike travel count = 	
