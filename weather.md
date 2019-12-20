@@ -88,7 +88,7 @@ Now that we have such a model, we could try to predict what would be the bike us
 
 We will use the coefficient of the second Ridge Regression, during years 2016, 2017 and 2018. To that end, we must use normalized data of the winter month.
 
-[insert a pic]
+![Prediction during winter month](img/Prediction.png){: .center-block :}
 
 We see that during closure (16th of October to the 14th of April), the predictive model we built shows value almost null. 
 Temperature, rain and snow during this month would discourage bike use...
