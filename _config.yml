@@ -23,7 +23,7 @@ navbar-links:
   Overview: "overview"
   BIXI:
     - System: "bixi"
-    - BIXI website: "http://https://montreal.bixi.com/"
+    - BIXI website: "http://http://montreal.bixi.com/"
   Safety: "paths"
   Public transport: "buses"
   Weather: "weather"

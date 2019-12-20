@@ -47,13 +47,12 @@ For example the maps below shows the top two station with the most trips startin
 
 <iframe src="https://daviskia.github.io/maps/bixi/most_pop_path.html" width="100%" height="400px"></iframe>
 
+Instead of looking at a single station we can look at all of the paths to and from each station. From this we can select only the paths which are taken the most frequently. This gives us a good idea not only of where people are starting their trips but where they go in their journeys as well and what areas of the city are most used with the BIXI system. 
+
 {: .box-note}
 **Legend:**
 - Red dots are the most popular stations to start from (larger diameter means more popular)
 - Lines are the most popular routes to take
 - Blue dotes are end points which are not one of the most popular stations
-
-
-Instead of looking at a single station we can look at all of the paths to and from each station. From this we can select only the paths which are taken the most frequently. This gives us a good idea not only of where people are starting their trips but where they go in their journeys as well and what areas of the city are most used with the BIXI system. 
 
 <iframe src="https://daviskia.github.io/maps/bixi/bike_routes.html" width="100%" height="400px"></iframe>
